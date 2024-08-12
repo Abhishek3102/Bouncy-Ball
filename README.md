@@ -40,7 +40,7 @@ This is a simple Python-based bounce ball game created using the Turtle graphics
 
 2. Run the game:
     ```bash
-    python bounce_ball_game.py
+    python main.py
     ```
 
 ## How It Works

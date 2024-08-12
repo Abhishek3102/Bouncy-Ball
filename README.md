@@ -35,7 +35,7 @@ This is a simple Python-based bounce ball game created using the Turtle graphics
 
 1. Clone this repository:
     ```bash
-    git clone (https://github.com/Abhishek3102/Bouncy-Ball.git)
+    git clone https://github.com/Abhishek3102/Bouncy-Ball.git
     ```
 
 2. Run the game:
